@@ -13,7 +13,7 @@ class Edge{
   
   void update(){
     // 自身が入る頂点の暫定最短距離が，自身が入る頂点の最短距離+自身の重みよりも
-    //厳密に大きい場合に，自身が入る頂点の暫定距離を更新
+    // 厳密に大きい場合に，自身が入る頂点の暫定距離を更新
     if( tail.dist + weight < head.dist )
       head.dist = tail.dist + weight;
   }
