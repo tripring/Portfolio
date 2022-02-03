@@ -1,0 +1,12 @@
+セラーID,評価度合い,評価数,販売業者,お問い合わせ先電話番号,住所,運営責任者名,店舗名,出品者プロフィールURL
+A206H9KECWXNGZ,過去12ヵ月間で99％が肯定的,70,株式会社ＢｌｏｏｍＣｏｒｐｏｒａｔｉｏｎ,023-615-3304,中桜田２丁目１－３山形市山形県9902422JP,布施美和,ＢｌｏｏｍＳｔｏｒｅ,https://www.amazon.co.jp/sp?_encoding=UTF8&seller=A206H9KECWXNGZ
+ATW0J1UW0AK7J&,過去12ヵ月間で98％が肯定的,92,有限会社アトモス,050-3704-8700,東上野一丁目６番１２号台東区東京都1100015JP,遠山　泉,ゼロトップマーケット,https://www.amazon.co.jp/sp?_encoding=UTF8&seller=ATW0J1UW0AK7J&
+A2DMKO2LMPIPC&,過去12ヵ月間で93％が肯定的,666,株式会社カウネット,0120-671-150,港区港南1-2-70品川シーズンテラス18階東京都108-8459JP,間宮賢治,カウモール,https://www.amazon.co.jp/sp?_encoding=UTF8&seller=A2DMKO2LMPIPC&
+A29DF1EU4DWP7C,過去12ヵ月間で90％が肯定的,147,株式会社 AQUA,+81427920035,大野台二丁目６番１４号相模原市南区神奈川県2520331JP,鈴木　保,AQUA-FEEL：コンディションに賞味期限記載。確認不可の際は購入前に問合せ下さい。キャンセル不可,https://www.amazon.co.jp/sp?_encoding=UTF8&seller=A29DF1EU4DWP7C
+A354W6PZKGFEDR,過去12ヵ月間で73％が肯定的,126,Sirius,+818091457263,1-34-5豊島区東池袋東京都170-0013JP,MISUZU MURANAKA,暮らしのサポート★応援隊★,https://www.amazon.co.jp/sp?_encoding=UTF8&seller=A354W6PZKGFEDR
+A27252DAP8H3K8,過去12ヵ月間で94％が肯定的,934,株式会社アッシュ,0427323725,１－５７－１廣瀬ビル２Ｆ町田市西成瀬東京都1940046JP,大渕,ASH-BRAND 【すり替え・抜き取り対策店舗】高度管理医療機器販売業許可証番号:平成25年7月16日町田市保健所にて取得,https://www.amazon.co.jp/sp?_encoding=UTF8&seller=A27252DAP8H3K8
+A2BJRGN8UQRDRR,過去12ヵ月間で98％が肯定的,4921,合同会社　exicoast,059-344-2684,曙２丁目２－５四日市市三重県5100053JP,石崎　弘晃,exicoast 【期限は新品の出品を押すと表示､アプリは説明下部に記載】,https://www.amazon.co.jp/sp?_encoding=UTF8&seller=A2BJRGN8UQRDRR
+A1TKILBK8G9M7I,過去12ヵ月間で98％が肯定的,214,西川　秀幸,059-344-2684,西阿倉川１４８０－１６四日市市三重県5100812JP,hiroaki ishizaki,菓子卸問屋 石崎商店by exicoast 【期限は新品の出品を押すと表示､アプリは説明下部に記載】,https://www.amazon.co.jp/sp?_encoding=UTF8&seller=A1TKILBK8G9M7I
+A35JR9H7I3L90Z,過去12ヵ月間で94％が肯定的,1747,株式会社ワールドロジスティクス,0178460272,柏崎４丁目１６－３３八戸市青森県0310081JP,泉　淳,クイックファクトリー高度管理医療機器販売業許可証番号:090103通信販売酒類小売業許可証番号:八戸法第1428号,https://www.amazon.co.jp/sp?_encoding=UTF8&seller=A35JR9H7I3L90Z
+A3I6DHZBKVL9FQ,過去12ヵ月間で94％が肯定的,160,有限会社　中谷,0597-85-4330,716番地の2熊野市井戸町三重県5194324JP,中谷　昇司,くまの中谷商店（パッケージが画像と異なる場合がございます。）,https://www.amazon.co.jp/sp?_encoding=UTF8&seller=A3I6DHZBKVL9FQ
+A2S0BYITWOJU5L,過去12ヵ月間で93％が肯定的,227,有限会社北海道蔵本舗,0166-40-0301,永山２条２２丁目３番２４号旭川市北海道0798412JP,那須 信幸,北海道 ポイント 市場,https://www.amazon.co.jp/sp?_encoding=UTF8&seller=A2S0BYITWOJU5L
